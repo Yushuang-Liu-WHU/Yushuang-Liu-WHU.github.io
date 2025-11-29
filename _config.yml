@@ -28,8 +28,8 @@ author:
   pronouns         : "Associate Researcher" 
   bio              : #"Short biography for the left-hand sidebar"
   location         : "China"
-  employer         : "Wuhan University https://jszy.whu.edu.cn/liuyushuang/en/index.htm"
-  uri              : # URL
+  employer         : "Wuhan University"
+  uri              : "https://jszy.whu.edu.cn/liuyushuang/en/index.htm"
   email            : "lyshuang@whu.edu.cn" 
 
   # Academic websites
