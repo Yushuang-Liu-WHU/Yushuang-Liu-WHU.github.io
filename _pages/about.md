@@ -9,10 +9,10 @@ redirect_from:
 
 I am an Associate Researcher in the [School of Electrical Engineering and Automation](https://eea.whu.edu.cn/) at [Wuhan University](https://www.whu.edu.cn/). I received my B.Eng. and Ph.D degree from Wuhan University under the supervision of [Prof. Xiaoming Zha](https://eea.whu.edu.cn/info/1085/5341.htm) in 2016 and 2021, respectively. From 2019 to 2020, I studied as a joint Ph.D student in the [Department of Electrical, Electronic and Computer Engineering](https://www.uwa.edu.au/schools/engineering/electrical-electronic-and-computer-engineering) at [the University of Western Australia](https://www.uwa.edu.au/) under the guidance of [Prof. Herbert Ho-Ching Iu](https://research-repository.uwa.edu.au/en/persons/ho-ching-iu/) (IEEE Fellow). From 2022 to 2024, I worked as a Postdoctoral/Assistant Researcher in the [Department of Automation](https://www.au.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/), collaborating with [Prof. Hua Geng](https://www.au.tsinghua.edu.cn/info/1094/1517.htm) (IEEE Fellow). My research interests include equivalent modeling, transient stability analysis and control of renewable energy generation systems. You can find my CV here:[Yushuang Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:lyshuang@whu.edu.cn)/[Github](http://github.com/Yushuang-Liu-WHU)/[Wuhan University](https://jszy.whu.edu.cn/liuyushuang/en/index/1631297/list/index.htm)/[Google Scholar](https://scholar.google.com/citations?user=hrqh7NsAAAAJ&hl=zh-CN)/[ResearchGate](https://www.researchgate.net/profile/Yushuang-Liu-3/research)
+[Email](mailto:lyshuang@whu.edu.cn)/[Github](http://github.com/Yushuang-Liu-WHU)/[Wuhan University](https://jszy.whu.edu.cn/liuyushuang/en/index/1631297/list/index.htm)/[Google Scholar](https://scholar.google.com/citations?user=hrqh7NsAAAAJ&hl)/[ResearchGate](https://www.researchgate.net/profile/Yushuang-Liu-3/research)
 
 
-A data-driven personal website
+Education
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -23,7 +23,7 @@ For those users that need more advanced functionality, the template also support
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
 
-Getting started
+Research Interests
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
